@@ -1,0 +1,5 @@
+node_modules
+.next
+package-lock.json
+node_modules/next/dist/docs
+AGENTS.md
